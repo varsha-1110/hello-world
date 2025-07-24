@@ -1,9 +1,9 @@
 {
-  "name": "hello-world",
+  "name": "2300030500",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://varsha-1110.github.io/hello-world/",
+  "homepage": "https://varsha-1110.github.io/2300030500/",
   "scripts": {
     "lint": "eslint .",
     "dev": "vite",
