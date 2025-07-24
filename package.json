@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://varsha-1110.github.io/2300030500/",
+  "homepage": "https://varsha-1110.github.io/hello-world/",
   "scripts": {
     "lint": "eslint .",
     "dev": "vite",
